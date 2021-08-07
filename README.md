@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/channel/UC4YXeE3c5f-umKACb9nIs0w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
 ### 👨🏾‍🎓 Analista de Sistemas
-### 📚 Futuro Game Developer
+### 📚 Cursando Jogos Digitais (Futuro Game Developer)
 ### 📺 Streamer nas Horas Vagas
   
 ##
