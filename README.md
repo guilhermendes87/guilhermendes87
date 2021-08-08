@@ -8,7 +8,7 @@
 ### 📚 Cursando Jogos Digitais (Futuro Game Developer - Dezembro/2022)
 ### 📺 Streamer nas Horas Vagas
   
-##
+## My Skills 
   
 </div>
 <div style="display: inline_block"><br>
