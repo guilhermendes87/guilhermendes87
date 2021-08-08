@@ -4,8 +4,8 @@
   <a href="https://www.instagram.com/guilhermendes87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC4YXeE3c5f-umKACb9nIs0w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-### 👨🏾‍🎓 Analista de Sistemas
-### 📚 Cursando Jogos Digitais (Futuro Game Developer)
+### 👨🏾‍🎓 Analista de Sistemas (2013)
+### 📚 Cursando Jogos Digitais (Futuro Game Developer - Dezembro/2022)
 ### 📺 Streamer nas Horas Vagas
   
 ##
