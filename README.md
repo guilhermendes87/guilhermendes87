@@ -12,7 +12,12 @@
 
 ### Minhas Habilidades / My Skills 
 <div style="display: inline_block"><br>
+  
+  
+  <img align="center" alt="KRITA" height="30" width="40" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+ 
   <img align="center" alt="UNITY" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
+  
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
