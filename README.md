@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   
   
-  <img align="center" alt="KRITA" height="30" width="40" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+  <img align="center" alt="KRITA" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
  
   <img align="center" alt="UNITY" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
   
