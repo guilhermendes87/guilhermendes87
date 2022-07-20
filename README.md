@@ -3,6 +3,9 @@
   <a href="https://www.twitch.tv/panickgamer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/guilhermendes87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC4YXeE3c5f-umKACb9nIs0w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://guilhermendes87.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/DdNF4Sdh" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
   
 ### 👨🏾‍🎓 Analista de Sistemas (2013)
 ### 📚 Cursando Jogos Digitais (Futuro Game Developer - Dezembro/2022)
