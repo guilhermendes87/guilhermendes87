@@ -18,7 +18,7 @@
     
    
   <img align="center" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img align="center" alt="GDEVELOP5" height="28" width="" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_GDevelop5.png">
+  <img align="center" alt="GDEVELOP5" height="28" width="87" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_GDevelop5.png">
   
   <br><br> 
   
